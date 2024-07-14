@@ -11,7 +11,7 @@ void main() {
   //constant variable
   const double centimeterInMeter = 100;
 
-  centimeterInMeter = 200; // Error: Constant variables can't be assigned a value.
+  //centimeterInMeter = 200; // Error: Constant variables can't be assigned a value.
 
   measurementInCentimeter = measurementInMeter * centimeterInMeter;
 
